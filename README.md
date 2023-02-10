@@ -1,0 +1,1 @@
+# Provide-Insights-to-in-Management-to-Consumer-Goods-Domain-by-SQL
